@@ -9,3 +9,6 @@ User can create a shopkeeper account and can sell their goods on the app admin h
 App is using firebase realtime database as a backend and java as language .
 Async task is used for handling asynchronous functions.
 
+x-special/nautilus-clipboard
+copy
+file:///home/himanshu/Downloads/WhatsApp%20Image%202021-01-29%20at%2011.07.17%20PM%20(3).jpeg
