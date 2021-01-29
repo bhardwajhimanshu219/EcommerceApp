@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416206413739",
+    "firebase_url": "https://ecommerce-2eb6b.firebaseio.com",
+    "project_id": "ecommerce-2eb6b",
+    "storage_bucket": "ecommerce-2eb6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416206413739:android:eac66cc634c149450e7cee",
+        "android_client_info": {
+          "package_name": "com.example.flipkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416206413739-ga5pod0p9nldrhflj924jc6dumo1inln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO7DuD3bNn_sYDXJAPTY16kfMaWIgKPZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416206413739-ga5pod0p9nldrhflj924jc6dumo1inln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
